@@ -1,0 +1,10 @@
+{
+  "debugMode": true,
+  "debugSys": true,
+  "runFile": ".neo/test.neo",
+  "interpreterFile": "interpreter.py",
+  "commentChar": "/!",
+  "walshMode": true,
+  "commandDelay": 0,
+  "logFile": "log.txt"
+}

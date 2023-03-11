@@ -1,0 +1,15 @@
+html {
+  height: 98%;
+  width: 100%;
+}
+
+.center {
+  border: 5px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table{
+  width: 90%;
+}

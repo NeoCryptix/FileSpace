@@ -1,0 +1,28 @@
+output('it works for now')
+
+var = input('GIMME NUMBER! ')
+
+toInt(var)
+
+output('Var is ' + var)
+
+check(var = 42)
+If True:
+  output('yay')
+If False:
+  output('no bad wrong')
+
+wait(3)
+
+/! Look its a comment! /!
+
+walsh(r)
+walsh(0)
+walsh(1)
+walsh(2)
+walsh(3)
+
+output('yay done now')
+
+var3 = new(random)(0, 100)
+output(var3)
